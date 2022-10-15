@@ -5,7 +5,7 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'October 2, 2022 00:00:00',
+        finalDate : 'October 20, 2022 00:00:00',
     };
 
 
